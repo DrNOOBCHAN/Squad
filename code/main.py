@@ -13,8 +13,7 @@
 # limitations under the License.
 
 """This file contains the entrypoint to the rest of the code"""
-
-fucking rubbsih
+fucking rubbsih wtf is going on
 from __future__ import absolute_import
 from __future__ import division
 
